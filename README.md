@@ -20,7 +20,7 @@ or <a href="mailto:uniq.funkii@gmail.com"><b>email</b></a> me
 </div>
 
 <div align="center">
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniquemozilla22&theme=react&show_icons=true)
+[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniqmozilla22)](https://github.com/uniquemozilla22)
 </br>
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
