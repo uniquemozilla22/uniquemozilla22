@@ -26,11 +26,6 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Full Stack React Developer",
-    where: "Takeo.ai, New York",
-    date: "Current",
-  },
-  {
     jobtitle: "React Developer",
     where: "Amazing IT Centre",
     date: "8 months",
