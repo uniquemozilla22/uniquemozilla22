@@ -15,7 +15,6 @@ or <a href="mailto:uniq.funkii@gmail.com"><b>email</b></a> me
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uniquemozilla22&count_private=true" alt="Yogesh bhattarai's stats"/>
 
 </br>
 <div align="center">
