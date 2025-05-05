@@ -25,7 +25,7 @@ or <a href="mailto:uniq.funkii@gmail.com"><b>email</b></a> me
 </br>
 <div align="center">
   <p> Follow me on Behance and see some of my designs <a href="https://www.behance.net/yogeshbhattarai1">Behance Profile Yogesh Bhattarai</a> </p>
-  <img src="https://user-images.githubusercontent.com/49606627/174067776-e9d4f030-31b9-4980-afe6-c1ae98334ddc.jpg" alt="Yogesh Bhattarai at Behance"/>
+
 </div>
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
